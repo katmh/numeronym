@@ -2,4 +2,4 @@
 
 Turn your text into numeronyms (e.g. internalization becomes i18n, since there are 18 letters in the word between i and n).
 
-![Screenshot of text messages from sender. The first message shows a screenshot of a tweet containing "Mark A8n", sent 4:32pm with a caption "MARK A8N". The second message, sent at 4:56pm, says "lol i was inspired to make numeronym.vercel.app.](inspiration.png)
+Inspired by a tweet where I saw someone say "Marc A8n", made in 24 minutes (including manually initializing a Next.js project and git repo, looking up whether I should run `npm run dev` or `npm run start`, and failing to deploy on Netlify because I don't know what the default output directory is called.)
